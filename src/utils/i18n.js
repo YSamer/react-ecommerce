@@ -8,6 +8,8 @@ const resources = {
       saleText:
         "Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!",
       shopNow: "Shop Now",
+      en: "English",
+      ar: "Arabic",
     },
   },
   ar: {
@@ -15,6 +17,8 @@ const resources = {
       saleText:
         "تخفيضات الصيف لجميع ملابس السباحة والتوصيل السريع مجانًا - خصم 50٪!",
       shopNow: "تسوق الآن",
+      en: "انجليزي",
+      ar: "العربية",
     },
   },
 };
